@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# 🔒 SECRETS — Never commit these
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+.env.*.local
+
+# Keep the example file (no real secrets inside)
+!.env.example
+
+# Vercel local config
+.vercel/

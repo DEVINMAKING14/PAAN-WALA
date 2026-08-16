@@ -1,0 +1,6 @@
+{
+  "name": "Dinesh Paan Bhandar",
+  "description": "An immersive fullscreen interactive Indian Paan Ki Dukaan experience with cinematic visuals, glassmorphic radio player, interactive paan folding soundscape, and street culture storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
