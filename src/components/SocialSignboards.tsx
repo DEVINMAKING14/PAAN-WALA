@@ -11,13 +11,13 @@ export const SocialSignboards: React.FC<SocialSignboardsProps> = ({ onHoverState
     {
       id: 'instagram',
       name: 'Instagram',
-      url: 'https://instagram.com',
+      url: 'https://www.instagram.com/techvyn_?igsh=aXNneDhkZjI2YW5o&igsi=aXNneDhkZjI2YW5o',
       icon: Instagram,
     },
     {
       id: 'github',
       name: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/DEVINMAKING14',
       icon: Github,
     },
     {
